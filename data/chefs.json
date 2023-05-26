@@ -1,0 +1,250 @@
+[
+    {
+        "id": 1,
+        "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=1800&t=st=1683108789~exp=1683109389~hmac=30c6186b7fb6d1a41e6f99a9172f7754f9c99528bd7dc085c5541a0cfedc9c0d",
+        "name": "Chef Ahmed",
+        "experience": 10,
+        "number_of_recipes": 50,
+        "likes": "1.5k",
+        "description": "Chef Ahmed is a renowned chef in Bangladesh, known for his expertise in traditional Bengali cuisine. With over 15 years of experience in the culinary industry, he has honed his skills to perfection and is a favorite among foodies all over the country.",
+        "recipes":[
+            
+                {
+                  "name": "Fish Curry",
+                  "picture": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?w=1480&t=st=1683124752~exp=1683125352~hmac=de4b7d5f25bb07e1026689a4df45d3a386bbfbf773b1211d7299a2a527b95ae5",
+                  "ingredients": ["1 kg fish", "2 onions", "4 tomatoes", "1 tbsp turmeric", "1 tbsp cumin powder"],
+                  "cookingMethod": "Saute onions, add tomatoes and spices, then add fish and cook on medium heat for 20-25 mins.",
+                  "rating": 4.6
+                },
+                {
+                  "name": "Vegetable Biryani",
+                  "picture": "https://img.freepik.com/free-photo/close-up-lunchboxes-with-delicious-food_23-2149098829.jpg?w=1800&t=st=1683125063~exp=1683125663~hmac=aa09af0a8c1937623268f5bee93035ee0e74019bf3986ee69f29a391cdc3004c",
+                  "ingredients": ["2 cups basmati rice", "2 cups mixed vegetables", "1 cup yogurt", "1 tsp red chili powder", "2 tbsp ginger garlic paste"],
+                  "cookingMethod": "Boil rice and set aside. Saute vegetables, add spices and yogurt, then add rice and cook on low heat for 30 mins.",
+                  "rating": 4.2
+                },
+                {
+                    "name": "Mutton Korma",
+                    "picture": "https://img.freepik.com/free-photo/tasty-pakistani-dishhigh-angle_23-2148825148.jpg?w=1800&t=st=1683125360~exp=1683125960~hmac=8549a49a4aad9460e49634dfa44c6b256573f7f6cea65994fe5bbdb4f2cea950",
+                    "ingredients": ["1 kg mutton", "2 onions", "2 tomatoes", "1 cup yogurt", "1 tsp garam masala"],
+                    "cookingMethod": "Saute onions, add tomatoes and spices, then add mutton and yogurt and cook on low heat for 2 hours.",
+                    "rating": 4.7
+                }
+              ]
+        
+    },
+    {
+        "id": 2,
+        "picture": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=1800&t=st=1683108860~exp=1683109460~hmac=6559b8aea9a8ffac12d0e5576d41c25119f27c01d66e2ad93290d646f8fc898f",
+        "name": "Chef Farzana ",
+        "experience": 5,
+        "number_of_recipes": 20,
+        "likes": "1.9k",
+        "description": "Chef Farzana is a rising star in the culinary world, known for her innovative recipes and unique flavor combinations. With 10 years of experience in the industry, she has already made a name for herself as one of the most exciting chefs in Bangladesh.",
+        "recipes": [
+            {
+              "name": "Chicken Biryani",
+              "picture": "https://img.freepik.com/free-photo/high-angle-pakistan-meal-composition_23-2148821517.jpg?w=1800&t=st=1683125039~exp=1683125639~hmac=963383e595f48888e6bbe76ec21e3ce31031cb5911960d48214276f95fbed19f",
+              "ingredients": ["1 kg chicken", "3 cups basmati rice", "2 cups yogurt", "1 tsp red chili powder", "2 tbsp ginger garlic paste"],
+              "cookingMethod": "Boil rice and set aside. Saute onions, add chicken and spices, then add rice and cook on low heat for 30 mins.",
+              "rating": 4.8
+            },
+            {
+              "name": "Beef Kabab",
+              "picture": "https://img.freepik.com/free-photo/side-view-shish-kebab-skewers-with-tomato-onion-ayran-white-plate_176474-3219.jpg?w=1800&t=st=1683125690~exp=1683126290~hmac=a0aa427d0460ea1882f4a4272f47a4ed33c0f02042e3f91ed5eeaa3443ff7469",
+              "ingredients": ["1 kg beef", "1 cup yogurt", "1 tsp red chili powder", "2 tbsp garam masala", "1/2 cup bread crumbs"],
+              "cookingMethod": "Mix all ingredients, shape into kababs, and grill on medium heat for 10-12 mins on each side.",
+              "rating": 4.5
+            },
+            {
+              "name": "Lemon Chicken",
+              "picture": "https://img.freepik.com/free-photo/plate-freshly-baked-chicken-wings_1205-12267.jpg?w=1800&t=st=1683125845~exp=1683126445~hmac=c6e6e4a7d50c94d162bccd7b4a5ca270b8692224dd5df33779fbbe6e4d5e25d9",
+              "ingredients": ["1 kg chicken", "1/2 cup lemon juice", "1 tsp black pepper", "1 tsp salt", "2 tbsp olive oil"],
+              "cookingMethod": "Marinate chicken in lemon juice and spices for 30 mins. Saute in olive oil until cooked through.",
+              "rating": 4.3
+            }
+          ]
+    },
+    {
+        "id": 3,
+        "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=1800&t=st=1683108940~exp=1683109540~hmac=a2513839d4ab40114602bf09a7bf610f5de361256461055bca5e0969ada71022",
+        "name": "Chef Ayesha",
+        "experience": 15,
+        "number_of_recipes": 80,
+        "likes": "1k",
+        "description": "Chef Ayesha is a young and talented chef who has already made a name for herself in the competitive world of Bangladeshi cuisine. Her recipes are known for their bold flavors and creative twists on traditional dishes.",
+        "recipes":[
+            
+                {
+                    "name": "Beef Kabab",
+                    "picture": "https://img.freepik.com/free-photo/turkish-arabic-traditional-ramadan-mix-kebab-plate-kebab-adana-chicken-lamb-beef-lavash-bread-with-sauce-top-view_2829-6170.jpg?w=2000&t=st=1683125739~exp=1683126339~hmac=cf71ba86b6866ffdbced74633646530c64fb8d7f3288c8127bef44d82102c322",
+                    "ingredients": ["1 kg beef", "1 cup yogurt", "1 tsp red chili powder", "2 tbsp garam masala", "1/2 cup bread crumbs"],
+                    "cookingMethod": "Mix all ingredients, shape into kababs, and grill on medium heat for 10-12 mins on each side.",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Mutton Korma",
+                    "picture": "https://img.freepik.com/premium-photo/gulai-sapi-gulai-sapi-is-beef-curry-typically-traditional-food-from-padang-west-sumatera-indonesia-served-table-with-bowl-ketupat-lebaran-menu-eid-al-adha-idul-adha_511235-6149.jpg?w=1800",
+                    "ingredients": ["1 kg mutton", "2 onions", "2 tomatoes", "1 cup yogurt", "1 tsp garam masala"],
+                    "cookingMethod": "Saute onions, add tomatoes and spices, then add mutton and yogurt and cook on low heat for 2 hours.",
+                    "rating": 4.7
+                },
+                {
+                    "name": "Chicken Korma",
+                    "picture": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?w=1800&t=st=1683125978~exp=1683126578~hmac=075849d7f085b43718e74da793a82115fa6df4f534abc12980a984ff843b4af0",
+                    "ingredients": [
+                        "chicken","yogurt","onion","garlic","1 inch ginger","1 tsp cumin"
+                    ],
+                    "cookingMethod": 
+                            "In a large bowl, mix together the yogurt, onion, garlic, ginger, and spicesAdd the chicken and stir to coat.Heat some oil in a large pan or pot over medium-high heat.Add the chicken and marinade and cook for about 10-15 minutes, stirring occasionally.Garnish with fresh cilantro and serve with rice or naan.",
+                    "rating" :4.5
+                    
+                },
+                {
+                    "name": "Vegetable Biryani",
+                    "picture": "https://img.freepik.com/premium-photo/indian-tasty-vegetable-pulav-veg-biryani-made-using-basmati-rice-served-terracotta-ceramic-bowl_466689-8709.jpg?w=1800",
+                    "ingredients": ["2 cups basmati rice", "2 cups mixed vegetables", "1 cup yogurt", "1 tsp red chili powder", "2 tbsp ginger garlic paste"],
+                    "cookingMethod": "Boil rice and set aside. Saute vegetables, add spices and yogurt, then add rice and cook on low heat for 30 mins.",
+                    "rating": 4.2
+                }
+            ]
+
+    },
+    {
+        "id": 4,
+        "picture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=1800&t=st=1683109228~exp=1683109828~hmac=35d8685d81c02480d875b01fc4cc8174110244633d5002c3ebaab1cda5dceda6",
+        "name": "Chef Kamal",
+        "experience": 12,
+        "number_of_recipes": 45,
+        "likes": "2.5k",
+        "description": "Chef Kamal is a veteran of the culinary industry, with over 20 years of experience in some of the top restaurants in Bangladesh. He is known for his traditional cooking techniques and his commitment to using only the freshest, locally-sourced ingredients.",
+        "recipes":[
+            {
+                "name": "Fish Curry",
+                "picture": "https://img.freepik.com/premium-photo/fish-curry-pomfret-curry-traditional-indian-fish-curry-kerala-special_527904-1383.jpg?w=1800",
+                "ingredients": ["1 kg fish", "2 onions", "4 tomatoes", "1 tbsp turmeric", "1 tbsp cumin powder"],
+                "cookingMethod": "Saute onions, add tomatoes and spices, then add fish and cook on medium heat for 20-25 mins.",
+                "rating": 4.6
+              },
+              {
+                "name": "Beef Bhuna",
+                "picture": "https://img.freepik.com/free-photo/sac-qovurmasi-traditional-food-with-mixed-ingredients-bamboo-board_114579-1881.jpg?w=1480&t=st=1683126307~exp=1683126907~hmac=ac2f6ee2bb38ba26092a85be146ac5ac1c5386e4abd47c2cb2c14cd14a64854e",
+                "ingredients": [
+                  "1 lb beef",
+                  "2 onions",
+                  "2 tomatoes",
+                  "1 tsp cumin",
+                  "1 tsp coriander powder",
+                  "1 tsp turmeric powder"
+                ],
+                "cookingMethod": "Heat oil in a pan.\n2. Fry the onions until golden brown. Add the ginger, garlic, and green chilies and fry for a minute. Add the beef and fry until it changes color.Cook until the beef is tender and the gravy thickens.",
+                "rating": 4.5
+              },
+
+              {
+                "name": "Chicken Biryani",
+                "picture": "https://img.freepik.com/free-photo/top-view-arrangement-with-delicious-pakistan-meal_23-2148821534.jpg?w=1480&t=st=1683125241~exp=1683125841~hmac=43ce1c833c283033fd5bb09ec6f931a6a0c9f3ea692a18e76c9be6b35373f29a",
+                "ingredients": [
+                  "1 lb chicken",
+                  "2 cups basmati rice",
+                  "2 onions",
+                  "2 tsp cumin",
+                  "2 tsp coriander",
+                  "2 tsp turmeric ",
+                  "2 tsp chili"
+                  
+                ],
+                "cookingMethod": "Heat oil in a pan and fry the onions until golden brown.Add the ginger, garlic, and green chilies and fry for a minute. Add the chicken and fry until it changes color.Add the tomatoes, cumin powder, coriander powder, turmeric powder, chili powder, and salt. Cover and cook on low heat for 15 minutes. Serve hot.",
+                "rating": 4.8
+              }
+          
+        ]
+        
+
+    },
+    {
+        "id": 5,
+        "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=1800&t=st=1683109302~exp=1683109902~hmac=d22f3e2ac0e1405418e3611bc46617d8e9efb308b8cecdbd4699604a76bde86e",
+        "name": "Chef Tarek",
+        "experience": 18,
+        "number_of_recipes": 55,
+        "likes": "2k",
+        "description": "Chef Tarek is a master of fusion cuisine, combining the flavors and techniques of Bangladeshi cooking with international ingredients and cooking styles. With 18 years of experience in the industry, he has developed a unique and delicious culinary style that has won him many fans.",
+        "recipes":[
+            {
+                "name": "Beef Bhuna",
+                "picture": "https://img.freepik.com/free-photo/caucasian-meat-govurma-with-herbs-tomatoes_114579-4433.jpg?w=1380&t=st=1683126348~exp=1683126948~hmac=e3973c8493596dab4287014aae8fe40ccfd16034a24c9752ebb883c8817b7b9a",
+                "ingredients": [
+                  "1 lb beef",
+                  "2 onions",
+                  "2 tomatoes",
+                  "1 tsp cumin",
+                  "1 tsp coriander powder",
+                  "1 tsp turmeric powder"
+                ],
+                "cookingMethod": "Heat oil in a pan.\n2. Fry the onions until golden brown. Add the ginger, garlic, and green chilies and fry for a minute. Add the beef and fry until it changes color.Cook until the beef is tender and the gravy thickens.",
+                "rating": 4.5
+              },
+              {
+                "name": "Chicken Korma",
+                "picture": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=1800&t=st=1683126019~exp=1683126619~hmac=bada95c6e85bee84690968825891563702fb96eeceb323f2067701d9f356ff72",
+                "ingredients": [
+                    "chicken","yogurt","onion","garlic","1 inch ginger","1 tsp cumin"
+                ],
+                "cookingMethod": 
+                        "In a large bowl, mix together the yogurt, onion, garlic, ginger, and spicesAdd the chicken and stir to coat.Heat some oil in a large pan or pot over medium-high heat.Add the chicken and marinade and cook for about 10-15 minutes, stirring occasionally.Garnish with fresh cilantro and serve with rice or naan.",
+                "rating" :4.5
+                
+            },
+            {
+                "name": "Vegetable Biryani",
+                "picture": "https://img.freepik.com/premium-photo/kande-pohe-aloo-poha-is-popular-indian-breakfast-recipe-made-using-flattened-rice-usually-served-with-hot-tea_466689-47733.jpg?w=1800",
+                "ingredients": ["2 cups basmati rice", "2 cups mixed vegetables", "1 cup yogurt", "1 tsp red chili powder", "2 tbsp ginger garlic paste"],
+                "cookingMethod": "Boil rice and set aside. Saute vegetables, add spices and yogurt, then add rice and cook on low heat for 30 mins.",
+                "rating": 4.2
+            }
+
+              
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?w=1800&t=st=1683109150~exp=1683109750~hmac=81d9124cda34f0296d32b70dd45a088b235e29e4fc0a3d9dd957199e96c05445",
+        "name": "Chef Rehana",
+        "experience": 14,
+        "number_of_recipes": 52,
+        "likes": "2.8k",
+        "description": "Chef Rehana is a talented chef who specializes in vegetarian and vegan cuisine. With 14 years of experience in the industry, she has developed a wide range of recipes that are both delicious and healthy, using fresh vegetables and spices to create bold and flavorful dishes.",
+        "recipes": [
+            {
+                "name": "Beef Bhuna",
+                "picture": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370900.jpg?w=1800&t=st=1683125608~exp=1683126208~hmac=c304eff8eac0a1f06f5e465a52e5828a1e9f23a5b68f5f15869a53ed7133d711",
+                "ingredients": [
+                  "1 lb beef",
+                  "2 onions",
+                  "2 tomatoes",
+                  "1 tsp cumin",
+                  "1 tsp coriander powder",
+                  "1 tsp turmeric powder"
+                ],
+                "cookingMethod": "Heat oil in a pan.\n2. Fry the onions until golden brown. Add the ginger, garlic, and green chilies and fry for a minute. Add the beef and fry until it changes color.Cook until the beef is tender and the gravy thickens.",
+                "rating": 4.5
+              },
+              {
+                "name": "Mutton Korma",
+                "picture": "https://img.freepik.com/premium-photo/mutton-gosht-masala-indian-lamb-rogan-josh-with-some-seasoning-served-with-naan-roti-selective-focus_466689-56757.jpg?w=1800",
+                "ingredients": ["1 kg mutton", "2 onions", "2 tomatoes", "1 cup yogurt", "1 tsp garam masala"],
+                "cookingMethod": "Saute onions, add tomatoes and spices, then add mutton and yogurt and cook on low heat for 2 hours.",
+                "rating": 4.7
+             },
+             {
+                "name": "Lemon Chicken",
+                "picture": "https://img.freepik.com/free-photo/cooked-chicken-legs-with-herbs_23-2148189830.jpg?w=1800&t=st=1683125877~exp=1683126477~hmac=dbb1bd52dd80e541358cd8ab6d1775fd7173ffe344b7ea25b7d5c7a68e80aacb",
+                "ingredients": ["1 kg chicken", "1/2 cup lemon juice", "1 tsp black pepper", "1 tsp salt", "2 tbsp olive oil"],
+                "cookingMethod": "Marinate chicken in lemon juice and spices for 30 mins. Saute in olive oil until cooked through.",
+                "rating": 4.3
+              }
+
+        ]
+    }
+]
